@@ -114,7 +114,7 @@ let package = Package(
             targets: ["Realm", "RealmSwift"]),
     ],
     dependencies: [
-        .package(name: "RealmDatabase", url: "https://github.com/realm/realm-core", .branch("tg/exception-unification"))
+        .package(name: "RealmDatabase", url: "https://github.com/realm/realm-core", .branch("feature/exception-unification"))
     ],
     targets: [
       .target(
