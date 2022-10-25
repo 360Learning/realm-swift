@@ -8,6 +8,7 @@ x.y.z Release notes (yyyy-MM-dd)
 * Some sync errors sent by the server include a link to the server-side logs
   associated with that error. This link is now exposed in the `serverLogURL`
   property on `SyncError` (or `RLMServerLogURLKey` userInfo field when using NSError).
+* Migrate all our CI jobs to Xcode cloud.
 
 ### Fixed
 * Many sync and app errors were reported using undocumented internal error
