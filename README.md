@@ -1,3 +1,15 @@
+## Important !
+
+The Realm framework is used by the iOS apps.
+
+It was forked to :
+
+- fix a bug with distribution using Carthage
+
+**For any inquires ping the iOS team.**
+
+-----
+
 ![Realm](https://github.com/realm/realm-swift/raw/master/logo.png)
 
 Realm is a mobile database that runs directly inside phones, tablets or wearables.
